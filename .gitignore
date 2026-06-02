@@ -1,0 +1,4 @@
+# Don't commit these to Git:
+node_modules/         # Downloaded libraries (use npm install to regenerate)
+.env                  # Secrets (database passwords etc.)
+*.log                 # Log files
