@@ -1,0 +1,6 @@
+# Files to NOT include in the Docker image
+node_modules
+dist
+.git
+.gitignore
+*.log
